@@ -91,6 +91,5 @@ The performance indicators obtained from evaluation on the held-out test data su
 * Data Leakage & Cross-Validation: Random selection partitions the dataset here. Implementing patient-level cross-validation (as detailed in the paper) will eliminate feature correlations within identical host samples.
 * Interpretability: Adding Grad-CAM mapping would render the inner layers audible, highlighting the localized cellular anomalies driving predictions.
 
-------------------------------
-License: Distributed under the MIT License. Feel free to use and adapt this code for scientific and educational purposes.
+
 
